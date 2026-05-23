@@ -85,10 +85,6 @@ This project uses:
 
 ### Run
 
-```bash
-git clone ARTLEXEY/YouTube-Video-Downloader
-```
-
 Open the solution in Visual Studio and run the project.
 
 ---
