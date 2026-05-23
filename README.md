@@ -4,7 +4,7 @@
 
 ## Features
 
-- Download single YouTube videos
+- Download single YouTube videos/shorts
 - Download entire playlists
 - Download video with audio
 - Download audio only (MP3)
